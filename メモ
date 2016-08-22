@@ -1,0 +1,8 @@
+https://ruby-test-002-keitasano0358.c9users.io/users　　　●これをまずやると開発用のDBがないと言われるURLのこと。
+https://ruby-test-002-keitasano0358.c9users.io/articles　●記事を書くページに行く。
+●よくわからないが、ユーザがなんか登録されなかった。編集で加えたら、０がなぜか入っていた。１を入れて更新。なんかできた。あとで確認しておくことだ。
+●多分１のところに、全角の１が入っていたからじゃないかな。
+だからとりあえず０が入って、何も表示されなかったんだと思う。半角1でやったらなんかうまくいったからね。
+
+git remote add origin https://github.com/HideakiSaito/hellowolrd.git●お手本
+git remote add origin https://github.com/nonoliri/helloworld.git●自分のやつ

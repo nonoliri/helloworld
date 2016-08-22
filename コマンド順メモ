@@ -1,0 +1,10 @@
+rails g scaffold user    name :string gender:integer birthday :date ●DBスクリプトとかが作成される。
+rails g scaffold article title:string body  :text    post_date:datetime is_public:boolean user:belongs_to●DBスクリプトとかが作成される。
+
+https://ruby-test-004-github-keitasano0358.c9users.io/
+https://ruby-test-004-github-keitasano0358.c9users.io/users
+
+bin/rake db:migrate RAILS_ENV=development　●これをやるとDBが作られるそうだ。
+
+git init
+git commit -m "first commit"
