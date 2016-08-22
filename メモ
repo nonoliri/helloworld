@@ -6,3 +6,5 @@ https://ruby-test-002-keitasano0358.c9users.io/articles　●記事を書くペ�
 
 git remote add origin https://github.com/HideakiSaito/hellowolrd.git●お手本
 git remote add origin https://github.com/nonoliri/helloworld.git●自分のやつ
+
+パスワードはなんか表示されないので、はじめは焦ったが、入力されているらしい。落ち着いてエバーに書いてあるGitHubのパスワードをやれば成功した。
